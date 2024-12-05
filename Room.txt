@@ -1,0 +1,12 @@
+54#//#Under Fixing#//#Department#//#True
+18#//#Free#//#Department#//#True
+74#//#Free#//#Single#//#True
+15#//#Reservad#//#Department#//#False
+1#//#Under Fixing#//#Department#//#True
+8#//#Reservad#//#Department#//#True
+16#//#Reservad#//#Single#//#False
+20#//#Reservad#//#Department#//#False
+63#//#Under Fixing#//#Single#//#True
+14#//#Free#//#Single#//#True
+441#//#Free#//#Single#//#True
+555#//#Free#//#Single#//#True
